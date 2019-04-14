@@ -1,0 +1,9 @@
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csprojResolveAssemblyReference.cache
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.Main_Form.resources
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.Properties.Resources.resources
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.GenerateResource.Cache
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+c:\users\аня\documents\visual studio 2017\Projects\GraphicsEditor\GraphicsEditor\obj\Debug\GraphicsEditor.pdb
